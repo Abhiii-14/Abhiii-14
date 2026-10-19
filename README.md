@@ -8,7 +8,7 @@ Hi, I'm Abhinav! 💻 I'm curious about how technology works, how systems can be
 - 🌐 Web Development
 
 ### 📚 Currently Learning
-- 🐍 Python and programming fundamentals
+- 🐍 Programming fundamentals
 - 🧠 Machine learning concepts
 - ⚙️ Web development and Git
 - 🔐 Cybersecurity fundamentals
