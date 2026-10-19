@@ -1,35 +1,22 @@
-# Hi, I'm Abhinav 👋
+### 👋 Aspiring Developer | AI/ML • Cybersecurity • Web Development
 
-### Aspiring Developer | AI/ML • Cybersecurity • Web Development
+Hi, I'm Abhinav! 💻 I'm curious about how technology works, how systems can become smarter, and how they can be made more secure. I enjoy experimenting with code, exploring new ideas, and turning what I learn into projects that solve real problems.
 
-I'm a student exploring the intersection of intelligent systems, digital security, and modern web technologies. I enjoy experimenting with new ideas, solving problems, and turning what I learn into practical projects.
+### 🔍 Interests
+- 🤖 Artificial Intelligence & Machine Learning
+- 🛡️ Cybersecurity & Vulnerability Research
+- 🌐 Web Development
 
-### 🔍 Areas of Interest
-- 🤖 **Artificial Intelligence & Machine Learning** — exploring intelligent applications and ML fundamentals.
-- 🛡️ **Cybersecurity** — learning vulnerability analysis, secure coding, and defensive security.
-- 🌐 **Web Development** — building interactive, practical web experiences.
-- 🧪 **Technical Experiments** — testing ideas and documenting what I learn.
+### 📚 Currently Learning
+- 🐍 Python and programming fundamentals
+- 🧠 Machine learning concepts
+- ⚙️ Web development and Git
+- 🔐 Cybersecurity fundamentals
 
-### 🛠️ Currently Learning
-- Python and programming fundamentals
-- Machine learning concepts
-- Web development and Git/GitHub
-- Cybersecurity fundamentals
+### 🎯 My Goal
+To keep learning, build meaningful projects, and grow into an engineer who creates practical, secure, and intelligent solutions.
 
-### 🚀 What You'll Find Here
-- Personal projects and experiments
-- Learning-focused implementations
-- Hackathon projects and prototypes
-- Notes, improvements, and technical explorations
-
-🎯 My Goal
-To build useful, secure, and intelligent applications while developing strong engineering fundamentals through consistent practice.
-
-🤝 Let's Connect
-I'm open to collaborating on beginner-friendly open-source projects, hackathons, and ideas involving AI, security, and web technologies.
-
-
-*Learning by building. Improving through experimentation.*
+✨ *Curious by nature. Learning by building.*
 
 <!--
 **Abhiii-14/Abhiii-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
